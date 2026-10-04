@@ -1,62 +1,79 @@
 # Aderemi Moses Timileyin
 
-**Backend Software Engineer | AI Model Evaluation | Workflow Automation**
+**Full-Stack Software Engineer (Frontend and Backend) | AI Automation | Remote, based in Osogbo, Nigeria**
 
-Osogbo, Osun State, Nigeria
+I build full-stack web applications, REST APIs, and AI automation systems. On the backend I work with Java and Spring Boot, PHP and Laravel, Node.js, and Python. On the frontend I work with Vue.js, React, and Next.js. I care about secure, maintainable systems, from schema design to the interface a user actually sees.
 
-I build database-driven applications, REST APIs, and authentication systems, mainly with Java and Spring Boot, PHP and Laravel, and Python. Alongside engineering work, I evaluate AI model outputs for accuracy and reasoning quality, and I design workflow automations for small businesses and agencies. I care about secure, maintainable systems, from schema design through to frontend integration.
+I work remotely as a freelance engineer. I also work as an AI training specialist, evaluating model outputs for accuracy and reasoning, and I hold a B.Sc. in Computer Science from Obafemi Awolowo University (2021 - 2026).
 
-## What I Work On
+## What I Do
 
-**Backend and API engineering.** REST API design, JWT authentication and authorization, role-based access control, and refresh-token handling. Database logic and query optimization in MySQL, Oracle, and PL/SQL.
+- Design REST APIs with JWT authentication, role-based access control, and well-structured relational and document databases
+- Build responsive web and mobile interfaces with Vue.js, React, Next.js, Tailwind CSS, and React Native (Expo)
+- Ship applications with Docker and GitHub Actions
+- Build AI agents and workflow automations with n8n, Make, Zapier, Python, and LangGraph that connect CRMs, email, calendars, voice, and payment tools
 
-**Full-stack integration.** Laravel and Spring Boot backends connected to Vue.js frontends, including resolving defects that cross the stack.
+## Tech Stack
 
-**Automation.** Workflow automation with n8n, Make, and Zapier, connecting CRM, email, and scheduling tools over APIs. Custom Python and PHP logic where no-code platforms fall short.
-
-**AI evaluation and ML.** Assessing AI-generated responses for factual accuracy, reasoning, and instruction-following, with written justification for each finding. Supervised model training experiments in the Java ecosystem with DeepLearning4J.
-
-## Technical Skills
-
-| Area | Tools |
-|---|---|
-| Languages | Java, Python, PHP, JavaScript, SQL, PL/SQL |
-| Backend | Spring Boot, Laravel, REST API design, JWT authentication and authorization |
-| Frontend | Vue.js, HTML5, CSS3 |
-| Databases | MySQL, Oracle Database, PL/SQL, schema design |
-| Automation | n8n, Make, Zapier, API integration |
-| Practices | Git and GitHub, debugging, functional and regression testing, OOP |
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Python, PHP, JavaScript, TypeScript, SQL, PL/SQL |
+| Backend | Spring Boot, Laravel, Node.js, Express, Django, Flask, FastAPI, REST APIs, JWT, microservices |
+| Frontend | Vue.js, React, Next.js, React Native (Expo), HTML5, CSS3, Tailwind CSS |
+| Databases | MySQL, PostgreSQL, Oracle Database, MongoDB, SQLite |
+| AI and automation | n8n, Make, Zapier, LangChain, LangGraph, LiteLLM, retrieval-augmented generation, Vapi, Deepgram |
+| Tools | Git, GitHub Actions, Docker, Maven, Postman |
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [Java Spring Boot JWT Boilerplate](https://github.com/USERNAME/java-spring-boot-jwt-boilerplate) | Java, Spring Boot, JWT | Reusable backend starter with token-based authentication, refresh-token handling, and role-based access control. |
-| [Vue Laravel Auth Kit](https://github.com/USERNAME/vue-laravel-auth-kit) | PHP, Laravel, Vue.js | Full-stack authentication template pairing a Laravel API with a Vue.js frontend: registration, login, and session management. |
-| [Real Estate Management System](https://github.com/USERNAME/real-estate-management-system) | PHP, MySQL | Property listings, client inquiries, and agent assignments, with role-based access for admins and agents. |
-| [E-Commerce Bookshop Platform](https://github.com/USERNAME/ecommerce-bookshop-platform) | PHP, MySQL | Product catalog, cart, and order management on a normalized MySQL schema, with admin inventory controls. |
-| [DeepLearning4J Experiments](https://github.com/USERNAME/deeplearning4j-experiments) | Java, DeepLearning4J | Supervised model training in Java, covering feature preparation and training and validation splits. |
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [doctor-patient-system](https://github.com/mosesaderemi/doctor-patient-system) | Healthcare platform built as Spring Boot microservices with an API gateway, service discovery, a React client, Docker, and Kubernetes manifests | Java, Spring Cloud, React, TypeScript, PostgreSQL |
+| [ciitm-backend](https://github.com/mosesaderemi/ciitm-backend) | Institute management API with authentication, admissions, fees, payments, real-time chat, and an AI student assistant | Node.js, Express, MongoDB, Socket.IO |
+| [ecommerce-laravel](https://github.com/mosesaderemi/ecommerce-laravel) | Online store with Stripe checkout and a separate admin panel with dashboard charts | Laravel, Vue 3, MySQL |
+| [leads-reactivation-ai-voice-agent](https://github.com/mosesaderemi/leads-reactivation-ai-voice-agent) | Service that calls old leads with an AI voice agent, analyses the call, and updates the CRM | Python, FastAPI, Vapi |
+| [ai-sales-agent](https://github.com/mosesaderemi/ai-sales-agent) | Tool-calling sales assistant with retrieval, product recommendations, booking, and payment links | Python, LiteLLM, LangChain |
+| [personal-ai-assistant](https://github.com/mosesaderemi/personal-ai-assistant) | Multi-agent assistant for email, calendar, Notion, Slack, and research, reachable through Telegram, Slack, or WhatsApp | Python, LangGraph |
+| [springboot-jwt-boilerplate](https://github.com/mosesaderemi/springboot-jwt-boilerplate) | Reusable starter with JWT authentication, refresh tokens, and role-based access | Java, Spring Boot, PostgreSQL |
+| [vue-laravel-auth-kit](https://github.com/mosesaderemi/vue-laravel-auth-kit) | Authentication starter pairing a Laravel API with a Vue.js frontend | PHP, Laravel, Vue.js, Inertia.js |
+| [recipe-app](https://github.com/mosesaderemi/recipe-app) | Mobile recipe app with sign-in, search, video tutorials, and saved favourites | React Native, Expo, Express, PostgreSQL |
+| [demo-restaurant](https://github.com/mosesaderemi/demo-restaurant) | Responsive restaurant website template driven by a single content file | Next.js, TypeScript, Tailwind CSS |
 
-## Experience
+## More Repositories
 
-**Software Engineer, Bluewave Digital** (2019 to present). Database-driven web applications, REST APIs, JWT authentication, and MySQL, Oracle, and PL/SQL optimization for client-facing systems.
+**Web applications**
+- [online-book-store](https://github.com/mosesaderemi/online-book-store): bookstore with cart, Stripe checkout, and admin panel (Django)
+- [real-estate-php](https://github.com/mosesaderemi/real-estate-php): property listings with search and an admin panel (PHP, MySQL)
+- [healthcare-ai-webapp](https://github.com/mosesaderemi/healthcare-ai-webapp): machine learning risk screening for six conditions (Flask, TensorFlow)
+- [mechanicwork-backend](https://github.com/mosesaderemi/mechanicwork-backend): REST API with JWT login, profiles, and posts (Node.js, MongoDB)
+- [laravel-rbac](https://github.com/mosesaderemi/laravel-rbac): roles and abilities registered as Laravel Gates (PHP)
+- [e-voting-application](https://github.com/mosesaderemi/e-voting-application): voter registration module (Spring Boot)
 
-**AI Automation Consultant, Freelance** (2025 to present). End-to-end automation projects from requirements gathering through deployment for small businesses and agencies.
+**Frontend and mobile**
+- [login-character](https://github.com/mosesaderemi/login-character): animated login page that reacts to user input (React, TypeScript, Motion)
+- [e-shop-mobile-app](https://github.com/mosesaderemi/e-shop-mobile-app): storefront app foundation (Expo, React Native, NativeWind)
+- [updrop](https://github.com/mosesaderemi/updrop): local network file sharing monorepo (Turborepo, Electron, Expo)
 
-**AI Model Evaluation and Data Annotation, Freelance** (2025 to present). Response evaluation, hallucination detection, and source verification across multiple platforms.
+**Desktop applications (Java, JavaFX, MySQL)**
+- [bookshop-management-system](https://github.com/mosesaderemi/bookshop-management-system)
+- [laundry-management-system](https://github.com/mosesaderemi/laundry-management-system)
+- [restaurant-management-system](https://github.com/mosesaderemi/restaurant-management-system)
+- [university-management-system](https://github.com/mosesaderemi/university-management-system)
+- [airline-reservation-system](https://github.com/mosesaderemi/airline-reservation-system): console seat reservation program
 
-**Software Testing and Transcription QA, Freelance** (2025 to present). Functional, regression, and usability testing with documented reproduction steps.
-
-## Education
-
-B.Sc. Computer Science, Obafemi Awolowo University (2021 to 2026)
-National Diploma, Computer Science, The Federal Polytechnic, Offa (2017 to 2019)
-
-Languages: English, German, French
+**AI, data, and other**
+- [ai-voice-assistant](https://github.com/mosesaderemi/ai-voice-assistant): voice agent with calendar, contacts, email, and search tools
+- [sales-outreach-automation-langgraph](https://github.com/mosesaderemi/sales-outreach-automation-langgraph): lead research and outreach pipeline
+- [ai-web-scraper](https://github.com/mosesaderemi/ai-web-scraper): LLM-based business directory extraction
+- [ai-model-building-with-dl4j](https://github.com/mosesaderemi/ai-model-building-with-dl4j): neural network in Java with DeepLearning4J
+- [electric-car-price-prediction](https://github.com/mosesaderemi/electric-car-price-prediction): regression notebook (scikit-learn)
+- [election-dapp](https://github.com/mosesaderemi/election-dapp): election smart contract (Solidity, Brownie)
+- [oracle-queries](https://github.com/mosesaderemi/oracle-queries): Oracle schema and report components (React, Chart.js)
+- [mpb-framework](https://github.com/mosesaderemi/mpb-framework): Mind, Paper, Building framework for planning automation projects
 
 ## Get in Touch
 
-Open to backend engineering roles, AI evaluation and training work, and automation projects.
-
+- LinkedIn: [linkedin.com/in/mosesaderemi-6a70a5405](https://www.linkedin.com/in/mosesaderemi-6a70a5405)
 - Email: mosestimileyinaderemi@gmail.com
-- LinkedIn: [linkedin.com/in/mosesaderemi-6a70a5405](https://linkedin.com/in/mosesaderemi-6a70a5405)
+
+I am open to remote full-stack roles and freelance projects in web development, API development, and AI automation.
